@@ -1,0 +1,18 @@
+header{
+    height: 100px;
+    background-color: #121212;
+    color: #fff;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 24px;
+}
+
+header a{
+    color: #fff;
+    font-size: 20px;
+}
+header .menu a{
+    margin: 0 30px;
+}
